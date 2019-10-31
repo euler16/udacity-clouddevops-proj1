@@ -10,3 +10,4 @@ index.html - The Index document for the website.
 /css - CSS files for the website.
 
 
+endpoint : http://d15ophrc4rnuy8.cloudfront.net/index.html
